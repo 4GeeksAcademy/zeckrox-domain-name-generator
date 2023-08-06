@@ -17,3 +17,7 @@ body {
   border-radius: 10px;
   margin: 1vw;
 }
+
+#domainList{
+  border-spacing: 13px 10px;
+}
